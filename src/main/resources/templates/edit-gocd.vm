@@ -1,0 +1,32 @@
+<tr bgcolor="#ffffff">
+    <td align="right" valign="top" bgcolor="#fffff0">
+        <span class="label">GoCD URL:</span>
+    </td>
+    <td bgcolor="#ffffff" nowrap>
+        <input type="text" id="gocdurl" name="gocdUrl" value="$gocdUrl" placeholder="URL"/>
+    </td>
+</tr>
+<tr bgcolor="#ffffff">
+    <td align="right" valign="top" bgcolor="#fffff0">
+        <span class="label">GoCD Pipeline Name:</span>
+    </td>
+    <td bgcolor="#ffffff" nowrap>
+        <input type="text" id="gocdpipeline" name="gocdPipeline" value="$gocdPipeline" placeholder="Pipeline"/>
+    </td>
+</tr>
+<tr bgcolor="#ffffff">
+    <td align="right" valign="top" bgcolor="#fffff0">
+        <span class="label">GoCD Username:</span>
+    </td>
+    <td bgcolor="#ffffff" nowrap>
+        <input type="text" id="gocdusername" name="gocdUsername" value="$gocdUsername" placeholder="Username"/>
+    </td>
+</tr>
+<tr bgcolor="#ffffff">
+    <td align="right" valign="top" bgcolor="#fffff0">
+        <span class="label">GoCD Password:</span>
+    </td>
+    <td bgcolor="#ffffff" nowrap>
+        <input type="password" id="gocdpassword" name="gocdPassword" value="$gocdPassword" placeholder="Password"/>
+    </td>
+</tr>
